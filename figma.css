@@ -1,0 +1,24 @@
+#fig{
+    background-color: rgb(167, 202, 231);
+}
+#fig1{
+    background-color: black;
+}
+#fig2{
+    background-color: white;
+    margin-bottom: 10;
+}
+#fig3{
+    background-image: url(./cta.png);
+}
+#fig4{
+    background-image: url(./cta.png);
+    height: 528;
+    position: relative;
+    background-position: center;   
+}
+#fig5{
+background: #000000;
+
+
+}
